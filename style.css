@@ -22,6 +22,7 @@ hr {
     margin-bottom: 20px;
     padding: 5px;
     font-family: "Lucida Console", "Courier New", monospace;
+    color: rgb(110, 110, 110);
 }
 .box h1 {
     text-align: center;
